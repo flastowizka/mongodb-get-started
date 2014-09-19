@@ -1,0 +1,10 @@
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.dll
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.dll
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.xml
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.xml
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csprojResolveAssemblyReference.cache
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+c:\users\felipe\documents\visual studio 2013\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
